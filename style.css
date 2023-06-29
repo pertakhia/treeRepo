@@ -1,0 +1,16 @@
+ul {
+    padding-left: 20px;
+  }
+  
+  li {
+    list-style-type: none;
+  }
+  
+  button {
+    margin-right: 5px;
+  }
+  
+  span:hover {
+    cursor: pointer;
+  }
+  
