@@ -1,5 +1,4 @@
 "use strict"
-Object.defineProperty(exports, "__esModule", { value: true })
 function renderTree(node, container) {
   var ul = document.createElement("ul")
   container.appendChild(ul)
