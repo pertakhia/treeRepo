@@ -4,7 +4,8 @@ const rootNode = Node[0] = [{
     children: [
         {
             id: 2,
-            label: 'child1'
+            label: 'child1',
+            expanded: true
         }, {
             id: 3,
             label: 'child2',
